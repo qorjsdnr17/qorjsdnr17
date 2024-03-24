@@ -44,9 +44,9 @@
    </div> 
 <br>
 <h1 align="center">📚 Studying 📚</h1>
- <div align="left">
+ <dic div style="width:200px; height:150px; border:1px solid red; float:left; margin-right:10px;>
   <img src="https://github-readme-stats.vercel.app/api?username=qorjsdnr17&show_icons=true&theme=radical"/>
-  <div align="right">
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorjsdnr17&layout=compact)"/> 
  </div>
 
