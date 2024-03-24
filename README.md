@@ -8,7 +8,7 @@
 <h2 align="center">✨Technology Stack ✨</h2>
  <h3 align="center">💻front end 💻</h3>
 <div align="center">
-  <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-white.svg?&style=for-the-badge&logo=JAVA&logoColor=green"/>
+ <img src="https://img.shields.io/badge/JAVA.svg?style=for-the-badge&logo=JAVA&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
