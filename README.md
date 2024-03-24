@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--타이틀 부분-->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome%BAEDO'sGIT&fontSize=90" />
 </div>
 
 <!--내용 부분-->
