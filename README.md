@@ -44,10 +44,10 @@
    </div> 
 <br>
 <h1 align="center">📚 Studying 📚</h1>
- <div align="justify">
+ <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=qorjsdnr17&show_icons=true&theme=radical"/>
  </div>
-  <div align="justify">
+  <div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorjsdnr17&layout=compact)"/> 
  </div>
 
