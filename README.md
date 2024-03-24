@@ -39,11 +39,13 @@
    </div> 
 <br>
 <h1 align="center">📚 Studying 📚</h1>
- <div align="left">
+ <div align="justify">
   <img src="https://github-readme-stats.vercel.app/api?username=qorjsdnr17&show_icons=true&theme=radical"/>
  </div>
 
-  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
+ <div align="justify">
+ <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
+ </div>
  
 
 <!--
