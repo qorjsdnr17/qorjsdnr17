@@ -6,7 +6,7 @@
 <h3 align="center">
 안녕하세요🖐. 신입 개발자 배건욱입니다. 찾아 주셔서 감사합니다.🙇‍♀
 </h3>
- <div align="center">✉ qorjsdnr17@naver.com</div>
+ <div align="center">✉ qorjsdnr17@naver.com ✉</div>
 
 <br>
 <!--내용 부분-->
