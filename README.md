@@ -45,10 +45,8 @@
 <br>
 <h1 align="center">📚 Studying 📚</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=qorjsdnr17&show_icons=true&theme=dracula"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorjsdnr17&layout=compact"/>
-<img src ="https://github.com/qorjsdnr17/github-readme-stats"/>
- </div>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorjsdnr17&layout=compact"/>>
+ 
  
 
 
