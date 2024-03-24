@@ -25,7 +25,7 @@
  <h3 align="center">💾 Database 💾</h3>
    <div align="center">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
    </div> 
 <br>
    <h3 align="center">🛠 Tooling/DevOps 🛠</h3>
