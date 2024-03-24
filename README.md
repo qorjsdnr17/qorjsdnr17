@@ -46,7 +46,7 @@
 <h1 align="center">📚 Studying 📚</h1>
  <div align="justify">
   <img src="https://github-readme-stats.vercel.app/api?username=qorjsdnr17&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorjsdnr17&layout=compact)](https://github.com/qorjsdnr17/github-readme-stats"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorjsdnr17&layout=compact)"/> 
  </div>
 
  
