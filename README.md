@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋-->
 <!--타이틀 부분-->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome%20BAEDOGIT&fontSize=90" />
