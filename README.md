@@ -39,9 +39,13 @@
    </div> 
 <br>
 <h1 align="center">📚 Studying 📚</h1>
- <img src="https://github-readme-stats.vercel.app/api?username=qorjsdnr17&show_icons=true&theme=radical"/>
-
-
+ <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=qorjsdnr17&show_icons=true&theme=radical"/>
+ </div>
+ <div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=qorjsdnr17&show_icons=true&theme=radical"/>
+ </div>
+ 
 
 <!--
 **qorjsdnr17/qorjsdnr17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
