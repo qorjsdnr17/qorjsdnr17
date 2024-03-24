@@ -6,6 +6,7 @@
 
 <!--내용 부분-->
 <h2 align="center">✨Technology Stack ✨</h2>
+ <div align="center" text-decoration: underline></div>
 <h3 align="center">💻front end 💻</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
