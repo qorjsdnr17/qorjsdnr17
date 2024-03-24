@@ -44,9 +44,8 @@
    </div> 
 <br>
 <h1 align="center">📚 Studying 📚</h1>
- <dic div float:left; margin-right:10px;>
-  <img src="https://github-readme-stats.vercel.app/api?username=qorjsdnr17&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorjsdnr17&layout=compact)"/> 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qorjsdnr17&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qorjsdnr17&layout=compact)](https://github.com/qorjsdnr17/github-readme-stats)
  </div>
 
  
