@@ -6,7 +6,7 @@
 
 <!--내용 부분-->
 <h2 align="center">✨Technology Stack ✨</h2>
- <h3 align="center">💻front-end 💻</h3>
+ <h3 align="center">💻 front-end 💻</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/ >
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
@@ -15,23 +15,20 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white"/>
 </div>
 
- <h3 align="center">💻Back-end 💻</h3>
-<div align="center">
-
- <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
- </div>
-
+ <h3 align="center">💻 Back-end 💻</h3>
+  <div align="center">
+   <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  </div>
 <br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-</div>
-
+ <h3 align="center">💻 Database/Environment 💻</h3>
+   <div align="center">
+    <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
+   </div> 
 <br>
-
+   <h3 align="center">💻 Tooling/DevOps 💻</h3>
+   <div align="center">
+    <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
+   </div> 
 <h2 align="center">📚 Studying 📚</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
