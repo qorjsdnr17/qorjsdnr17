@@ -5,7 +5,7 @@
 </div>
 
 <!--내용 부분-->
-<h2 align="center">✨Technology Stack ✨</h2>
+<h1 align="center">✨Technology Stack ✨</h1>
  <h3 align="center">💻 front-end 💻</h3>
   <div align="center">
    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
