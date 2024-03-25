@@ -48,14 +48,16 @@
    </div> 
 <br>
 <h1 align="center">📚 Studying 📚</h1>
- <div>
- <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> 독학으로 매일 2시간 공부 중⏳📃 
- </div>
- <div>
- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> 독학으로 매일 2시간 공부 중⏳📃 
- </div>
- <div>
- 개인 프로젝트(주식 산출 프로그램) 진행 중~~💴💵💶💷 
+ <div  align="center">
+   <div>
+    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> 독학으로 매일 2시간 공부 중⏳📃> 
+   </div>
+   <div>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> 독학으로 매일 2시간 공부 중⏳📃 
+   </div>
+   <div>
+   개인 프로젝트(주식 산출 프로그램) 진행 중~~💴💵💶💷 
+   </div>
  </div>
 <h1 align="center">🔧 GIT STATS 🔩</h1>
 <div align="left" margin-right:10px;>
