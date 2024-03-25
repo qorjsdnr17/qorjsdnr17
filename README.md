@@ -64,10 +64,10 @@
    </div>
  </div>
 <h1 align="center">🔧 GIT STATS 🔩</h1>
-<div align="center">
+
 ![qorjsdnr17's github stats](https://github-readme-stats.vercel.app/api?username=qorjsdnr17&show_icons=true&theme=dark)
 [![qorjsdnr17's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qorjsdnr17&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/qorjsdnr17)
-</div> 
+
 
 
 
