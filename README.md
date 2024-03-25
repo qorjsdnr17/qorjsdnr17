@@ -66,6 +66,8 @@
 <h1 align="center">🔧 GIT STATS 🔩</h1>
 <div align="left" margin-right:15px;>
 <img src="https://github-readme-stats.vercel.app/api?username=qorjsdnr17&show_icons=true&theme=dracula"/>
+ #github-readme-stats.vercel.app/api?username=qorjsdnr17&show_icons=true&theme=dark
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorjsdnr17&layout=compact"/>
 </div> 
  
