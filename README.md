@@ -64,10 +64,10 @@
    </div>
  </div>
 <h1 align="center">🔧 GIT STATS 🔩</h1>
-
-<p aligin="left"><img src="https://github-readme-stats.vercel.app/api?username=qorjsdnr17&show_icons=true&theme=dark"/></p>
-<p aligin="rigth"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorjsdnr17&langs_count=8"/></p>
-
+<div aligin="left">
+<img src="https://github-readme-stats.vercel.app/api?username=qorjsdnr17&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qorjsdnr17&langs_count=8"/>
+</div>
  
 
 
